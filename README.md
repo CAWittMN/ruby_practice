@@ -27,9 +27,9 @@ To get started with these scripts:
 
 3. Run any of the Ruby scripts with the following command:
 
-```bash
-ruby <file-name>.rb
-```
+   ```bash
+   ruby <file-name>.rb
+   ```
 
 ## Prerequisites
 
