@@ -289,6 +289,7 @@ def main_menu(movies)
   elsif choice == "delete"
     return delete(movies)
   elsif choice == "exit"
+    puts `clear`
     return
   else
     puts `clear`
